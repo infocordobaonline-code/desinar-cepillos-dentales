@@ -1,0 +1,8 @@
+{
+  "name": "Remix Grupo Deninar Cepillos dentales",
+  "description": "Catálogo interactivo mayorista de cepillos dentales con carga rápida de pedidos y derivación directa a WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
